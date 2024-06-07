@@ -5,7 +5,7 @@ betterThanAverage
 expressionMatter
 ![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/21a30dfc-0e14-446d-a9d8-a0975bb1085f)
 muzeRunner
-![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/901e600d-2ceb-47e1-a40a-e39a940641e2)
+![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/6cc1e1d7-3caf-4a96-9e99-fde1ccd62f0f)
 multiplyAll
 ![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/1a2d4b91-6cda-4da6-a2d6-e2ee7bbbf231)
 compose
