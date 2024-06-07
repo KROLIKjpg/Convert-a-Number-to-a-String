@@ -6,4 +6,6 @@ expressionMatter
 ![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/6f4730c0-433d-497c-9f8a-c9b6bce0d7d9)
 muzeRunner
 ![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/901e600d-2ceb-47e1-a40a-e39a940641e2)
+multiplyAll
+![image](https://github.com/KROLIKjpg/Convert-a-Number-to-a-String/assets/114894776/1a2d4b91-6cda-4da6-a2d6-e2ee7bbbf231)
 
